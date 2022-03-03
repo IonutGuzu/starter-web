@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ionut Guzu iguzu@deloittece.com @blabla
 
 # THANKS
 
